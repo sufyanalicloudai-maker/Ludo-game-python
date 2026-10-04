@@ -71,4 +71,4 @@ The Linux executable is created at `dist/LudoClub` and is not a Windows `.exe`.
 
 ## 🎮 Game Preview
 
-![Ludo club](ludo-game.png)
+![Ludo club](ludogame.png)
