@@ -68,3 +68,7 @@ python -m PyInstaller --noconfirm --clean --onefile --windowed --name LudoClub l
 ```
 
 The Linux executable is created at `dist/LudoClub` and is not a Windows `.exe`.
+
+## 🎮 Game Preview
+
+![Ludo club](ludo-game.png)
